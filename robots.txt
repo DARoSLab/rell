@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rell.github.io/sitemap.xml
+Sitemap: https://daroslab.github.io/rell.github.io//sitemap.xml
